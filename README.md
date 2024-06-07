@@ -6,8 +6,8 @@ You need R studio and all the libraries mentioned in the ".R" files along with a
 
 ## datasets
 You will find 2 datasets:
-# 1) Network_file.txt
-# 2)Ground_truth_file.txt
+#### 1) Network_file.txt
+#### 2) Ground_truth_file.txt
 
 ## Preprocessing 
 We pre-processed the data by removeing the blank spaces as this dataset was created by [ LFR benchmark algorithm ](https://networkx.org/documentation/stable/reference/generated/networkx.generators.community.LFR_benchmark_graph.html) it doesn't require much pre-processing being a synthetic dataset
