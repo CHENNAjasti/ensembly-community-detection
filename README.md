@@ -4,7 +4,7 @@ In this repository, you will find multiple files and may confuse you a little im
 ## PreRequesits
 You need R studio and all the libraries mentioned in the ".R" files along with a python interpreter
 
-## datasets
+## Datasets
 You will find 2 datasets:
 #### 1) Network_file.txt
 #### 2) Ground_truth_file.txt
